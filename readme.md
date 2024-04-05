@@ -5,7 +5,7 @@ The parser did requests and response is not rendered by js, its something like c
 
 Working examples im publish every day on youtube channel: https://www.youtube.com/@coderpicasso
 
-The parser price is 200$ per 1 website with cloudflare.
+The parser price is 100$+ per 1 website with cloudflare.
 My telegram for contacts is: @dflowd
 
 Я потратил много времени на поиск решения для обхода Cloudflare.
@@ -15,5 +15,5 @@ My telegram for contacts is: @dflowd
 
 Примеры работы парсера публикую каждый день на ютуб канале: https://www.youtube.com/@coderpicasso
 
-Цена парсера 200$ за 1 сайт где есть cloudflare.
+Цена парсера 100$+ за 1 сайт где есть cloudflare.
 Мой телеграм для связи: @dflowd
